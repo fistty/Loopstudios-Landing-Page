@@ -179,6 +179,7 @@
     grid-area: heading;
     text-align: left;
     padding-left: unset;
+    font-size: 50px;
   }
 
   .creations-links-container {
@@ -332,7 +333,7 @@
     left: 165px;
     right: unset;
     max-width: unset;
-    max-height: 288px;
+    /* max-height: 288px; */
     padding-left: 37px;
   }
 
@@ -346,11 +347,11 @@
   }
 }
 
-.hidden {
+/* .hidden {
   transform: translateY(30%);
   transition: all 500ms ease-out;
 }
 
 .show {
   transform: translateY(0%);
-}
+} */
