@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Solution](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-custom-hover-state-and-more-animations-NcI8AbEaD7)
-- Live Site URL: [Netlify Live Site](https://fistty-sunnyside-landing-page.netlify.app/)
+- Live Site URL: [Netlify Live Site](https://fistty-loopstudios-landing-page.netlify.app/)
 
 ## My process
 
