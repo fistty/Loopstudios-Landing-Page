@@ -529,6 +529,7 @@ footer {
 
 .twitter::after {
   background-color: #1da1f2;
+  bottom: -4px;
 }
 
 .insta::after {
