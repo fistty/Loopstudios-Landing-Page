@@ -347,11 +347,11 @@
   }
 }
 
-/* .hidden {
+.hidden {
   transform: translateY(30%);
   transition: all 500ms ease-out;
 }
 
 .show {
   transform: translateY(0%);
-} */
+}
