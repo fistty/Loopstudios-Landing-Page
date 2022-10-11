@@ -328,6 +328,11 @@
     padding-right: unset;
   }
 
+  .header-logo-container img {
+    width: 195px;
+    height: 33px;
+  }
+
   .nav-ul {
     margin-right: 131px;
   }
